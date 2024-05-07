@@ -1,0 +1,5 @@
+# Ignora la carpeta node_modules
+node_modules
+secrets
+.env
+madres-test-firebase-adminsdk-afm9f-135ddf9f0e.json
